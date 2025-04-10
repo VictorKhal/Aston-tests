@@ -1,4 +1,3 @@
-import java.lang.annotation.Retention;
 import java.util.Scanner;
 
 public class task {
